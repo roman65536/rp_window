@@ -1,0 +1,19 @@
+struct {
+	int	sizeX;
+	int	sizeY;
+	int	sizeSx;
+	int	sizeSy;
+	int	depth;	
+	char 	wintitle[80];
+	int	sync;
+	int	maxVx;
+	int	maxVy;
+	int 	minVx;
+	int	minVy;
+	int 	hheight;
+	int 	hwidth;	
+	int	cpVx;
+	int	cpVy;
+	char 	*devname;
+	} vdevice;
+
